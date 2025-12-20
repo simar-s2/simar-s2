@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Animation Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Simarjot+Singh+👨‍💻;Software+Developer+%40+SFU+Blueprint;Full-Stack+Developer;Building+Tech+for+Impact;Welcome+to+my+GitHub!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Simarjot+Singh+😄;Software+Developer+@+SFU+Blueprint;Full-Stack+Developer+👨‍💻;Building+Tech+for+Impact+🌟;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 <!-- Profile Image with Animation -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120"/>
