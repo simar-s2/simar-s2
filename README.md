@@ -24,12 +24,6 @@
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=simar-s2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<!-- Welcome Animation -->
-<h2>
-  Welcome to my GitHub Universe! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-</h2>
-
 </div>
 
 ---
@@ -141,9 +135,9 @@ I'm a **Computer Science and Mathematics** student at **Simon Fraser University*
 <!-- Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simar-s2/simar-s2/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simar-s2/simar-s2/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/simar-s2/simar-s2/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simar-s2/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simar-s2/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/simar-s2/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
