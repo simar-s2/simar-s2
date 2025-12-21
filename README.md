@@ -115,10 +115,11 @@ I'm a **Computer Science and Mathematics** student at **Simon Fraser University*
 
 </div>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=simar-s2&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
+-->
 
 ---
 <!--
@@ -140,9 +141,6 @@ I'm a **Computer Science and Mathematics** student at **Simon Fraser University*
   </picture>
 </div>
 -->
-
-
----
 
 ## 🤝 Let's Connect!
 
