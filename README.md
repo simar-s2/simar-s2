@@ -121,18 +121,17 @@ I'm a **Computer Science and Mathematics** student at **Simon Fraser University*
 </div>
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=simar-s2&theme=onestar&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
----
 
 ## 📈 Activity Graph
 
-<!-- Snake Animation -->
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simar-s2/output/github-contribution-grid-snake-dark.svg">
@@ -140,6 +139,8 @@ I'm a **Computer Science and Mathematics** student at **Simon Fraser University*
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/simar-s2/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+-->
+
 
 ---
 
