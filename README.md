@@ -138,10 +138,6 @@ I'm a **Mathematics & Computer Science** student at Simon Fraser University who 
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simar-s2/simar-s2/output/github-snake-dark.svg" />
