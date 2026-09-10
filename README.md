@@ -19,6 +19,17 @@ I'm a **Mathematics & Computer Science** student at Simon Fraser University who 
 
 ---
 
+## 👔 Experience
+
+| Position | Company | Field | Work Period |
+|----------|---------|-------|-------------|
+| **Software Engineer Intern** | DarkVision Technologies | Ultrasound Imaging & Cloud Platform | 2026-05 — now |
+| **Lead Software Engineer** | SFU Blueprint | Nonprofit Software | 2025-09 — now |
+| **Software Engineer** | CJSF Radio | Broadcast Systems | 2024-10 — 2025-05 |
+| **Software Developer** | Aviana Africa Ltd. | Web Applications | 2023-10 — 2024-05 |
+
+---
+
 ## 🚀 Projects
 
 | Project | Link | Description | Stack |
@@ -28,17 +39,6 @@ I'm a **Mathematics & Computer Science** student at Simon Fraser University who 
 | **NexusPulse** | [Repo](https://github.com/simar-s2/nexus-pulse) | Async event ingestion platform. Accepts and enqueues in under 50ms, idempotency enforced by conditional writes | Spring Boot, Java, Angular, AWS SQS/Lambda/DynamoDB |
 | **RoomiGator** | [Repo](https://github.com/simar-s2/find-my-room) | Indoor campus navigation. Search a room, get routed to it on a floor plan. Built at StormHacks 2025 | Next.js, React, Supabase, Mapbox GL, Gemini |
 | **TCP Group Chat** | [Repo](https://github.com/simar-s2/tcp-groupchat) | Multi-client TCP chat server in C with C++ wrappers, handling 1000+ concurrent connections | C, C++, POSIX sockets, CMake |
-
----
-
-## 👔 Experience
-
-| Position | Company | Field | Work Period |
-|----------|---------|-------|-------------|
-| **Software Engineer Intern** | DarkVision Technologies | Ultrasound Imaging & Cloud Platform | 2026-05 — now |
-| **Lead Software Engineer** | SFU Blueprint | Nonprofit Software | 2025-09 — now |
-| **Software Engineer** | CJSF Radio | Broadcast Systems | 2024-10 — 2025-05 |
-| **Software Developer** | Aviana Africa Ltd. | Web Applications | 2023-10 — 2024-05 |
 
 ---
 
