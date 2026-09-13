@@ -24,9 +24,8 @@ I'm a **Mathematics & Computer Science** student at Simon Fraser University who 
 | Position | Company | Field | Work Period |
 |----------|---------|-------|-------------|
 | **Software Engineer Intern** | DarkVision Technologies | Ultrasound Imaging & Cloud Platform | 2026-05 — now |
-| **Software Engineer** | SFU Blueprint | Nonprofit Software | 2025-09 — 2026-5 |
+| **Software Engineer** | SFU Blueprint | Nonprofit Software | 2025-09 — 2026-05 |
 | **Software Engineer** | CJSF Radio | Broadcast Systems | 2024-10 — 2025-05 |
-| **Software Developer** | Aviana Africa Ltd. | Web Applications | 2023-10 — 2024-05 |
 
 ---
 
