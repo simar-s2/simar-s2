@@ -13,8 +13,7 @@
 I'm a **Mathematics & Computer Science** student at Simon Fraser University who spends most of his time where application code meets the infrastructure it runs on.
 
 - 🔬 Currently **Software Engineer Intern** at **DarkVision Technologies**, working on C++ imaging services and the Kubernetes/AWS platform under them
-- 👥 **Lead Software Engineer** at **SFU Blueprint**, leading 8 engineers on a volunteer platform used by 1000+ people
-- ⚡ Happiest writing Python, TypeScript, and C++, and living in AWS, Kubernetes, and Terraform
+- 👥 **Software Engineer** at **SFU Blueprint**, Built Volunteer platform used by 1000+ people
 - 📫 Reach me at **simarjot2468@gmail.com**
 
 ---
