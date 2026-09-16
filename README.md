@@ -40,7 +40,8 @@ Fixed a bug that caused 15% of scheduled radio shows to fail, and moved the stat
 
 ## 🛠️ Skills
 
-🐍 **Languages:** Python, C++, TypeScript, Java, SQL, Bash\
-⚙️ **Backend:** FastAPI, Spring Boot, Node.js, PostgreSQL, MongoDB, Redis\
-🎨 **Frontend:** React, Next.js\
-☁️ **Cloud:** AWS, Kubernetes, Docker, Terraform, Prometheus, Grafana
+🐍 **Languages:** Python, C++, C, Java, Go, TypeScript, JavaScript, SQL, Bash, PHP, HTML, CSS\
+⚙️ **Backend:** FastAPI, Flask, Django, Spring Boot, Node.js, Express, PostgreSQL, MongoDB, Redis, Kafka\
+🎨 **Frontend:** React, Next.js, Tailwind CSS\
+☁️ **Cloud:** AWS, Kubernetes, Docker, Terraform, Helm, Prometheus, Grafana\
+🔧 **Tools:** Jenkins, GitHub Actions, Linux, Git
