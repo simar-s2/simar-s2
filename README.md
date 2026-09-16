@@ -15,8 +15,8 @@ Math and Computer Science student at Simon Fraser University. I build backend sy
 🔬 **Software Engineer Intern, DarkVision** · May 2026 – Dec 2026\
 Built an inspection manager that cut file lookups for engineers from 5 minutes to 10 seconds, and helped run the Kubernetes and AWS platform behind it.
 
-🐾 **Lead Software Engineer, SFU Blueprint** · Sep 2025 – May 2026\
-Led 8 engineers to build a volunteer scheduling app for a local animal welfare nonprofit with 1000+ users.
+🐾 **Software Engineer, SFU Blueprint** · Sep 2025 – May 2026\
+Built a volunteer scheduling app for a local animal welfare nonprofit with 1000+ users.
 
 📻 **Software Engineer, CJSF Radio** · Jan 2025 – May 2025\
 Fixed a bug that caused 15% of scheduled radio shows to fail, and moved the station's website to the cloud.
